@@ -29,7 +29,7 @@ By default, there are three 3-tuples provided as part of the `SRC` list. Uncomme
 [MIT License](https://opensource.org/licenses/MIT)
 
 ## Resources
-The `copytree` implementation used in this script is largely based on [this Stack Overflow thread]("F:\Projects\google-drive-copier").
+The `copytree` implementation used in this script is largely based on [this Stack Overflow thread](http://stackoverflow.com/questions/1868714/how-do-i-copy-an-entire-directory-of-files-into-an-existing-directory-using-pyth).
 
 ## Contributing
 Please feel free to make any contribution in any capacity to this project.
